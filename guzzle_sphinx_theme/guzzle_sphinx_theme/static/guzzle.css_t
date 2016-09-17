@@ -25,7 +25,7 @@ body {
   padding: 20px 0;
   margin-left: 300px;
   background-color: #fff;
-  max-width: 900px;
+  max-width: 100ch;
 }
 
 a.headerlink {
@@ -153,6 +153,7 @@ a.internal em {
 
 dl dd {
   margin: 3px 0 10px 30px;
+  max-width: 90ch
 }
 
 dl.method {
